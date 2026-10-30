@@ -1,0 +1,11 @@
+# Vitrine publica: o codigo do site e do servidor fica no repositorio privado.
+site/
+server/
+deploy/
+*.js
+*.html
+*.db
+.env
+.env.*
+.DS_Store
+Thumbs.db
